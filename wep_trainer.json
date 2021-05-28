@@ -2,49 +2,49 @@
     "id": 1,
     "firstname": "Ronan",
     "lastname": "Ronaldo",
-    "position": "Coordinator & Master Chef",
+    "position": "Coordinator",
     "profile": "https://cdn2.iconfinder.com/data/icons/avatars-99/62/avatar-370-456322-512.png"
 },
 {
     "id": 2,
     "firstname": "Clément",
     "lastname": "Harry",
-    "position": "Node JS Super Star & Discord Manager",
+    "position": "Node JS Super Star",
     "profile": "https://www.shareicon.net/data/512x512/2016/05/24/770117_people_512x512.png"
 },
 {
     "id": 3,
     "firstname": "Edouard",
     "lastname": "Junior",
-    "position": "Homework creator & Github classroom Manager",
+    "position": "Homework creator",
     "profile": "https://www.shareicon.net/data/512x512/2016/05/24/770137_man_512x512.png"
 },
 {
     "id": 4,
     "firstname": "Rady",
     "lastname": "Messi",
-    "position": "Trainer ,Call center & Online 24h Suporter",
+    "position": "Trainer",
     "profile": "https://sahajhospital.co.in/assets/images/doctor/drrkrai.png"
 },
 {
     "id": 5,
     "firstname": "Him",
     "lastname": "Dubai",
-    "position": "Trainer & Motobike Tester",
+    "position": "Trainer",
     "profile": "https://www.shareicon.net/data/512x512/2016/08/18/813848_people_512x512.png"
 },
 {
     "id": 6,
     "firstname": "Seiha",
     "lastname": "Maguire",
-    "position": "Trainer, Sleeping Manager & Footballer",
+    "position": "Trainer",
     "profile": "https://www.shareicon.net/data/512x512/2016/08/18/813847_people_512x512.png"
 },
 {
     "id": 7,
     "firstname": "Sokea",
     "lastname": "Chem",
-    "position": "Trainer & Mother Suporter",
+    "position": "Trainer",
     "profile": "https://cdn2.iconfinder.com/data/icons/circle-avatars-1/128/050_girl_avatar_profile_woman_suit_student_officer-512.png"
 }
 ]

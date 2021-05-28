@@ -1,6 +1,14 @@
 const express = require('express');
 const app = express();
 const {readFileSync} = require('fs');
+const cors = require('cors');
+
+app.use(
+    cors({
+        origin: "*"
+    })
+)
+
 app.listen(process.env.PORT || 5000);
 
 
